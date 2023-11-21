@@ -12,14 +12,14 @@ h1
 	color : 	#00FFFF;
 	font-family : "Century Gothic", Georgia, 'Times New Roman', Times, serif;
   font-size : 60px;
-  word-spacing : 15px;
+  letter-spacing-spacing : 15px;
   text-shadow:1px 1px 0px #ffeeee, 2px 2px 0px #000000;
 	
 }
 h2
 {
 	font-variant:small-caps;
-	word-spacing : 15px;
+	letter-spacing : 15px;
 }
 p {
 	text-align : justify;

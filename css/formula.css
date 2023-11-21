@@ -1,0 +1,44 @@
+body
+{
+	margin : auto;
+	background : #F0F8FF;
+	max-width: 800px;
+	width: 80%;
+	
+}
+h1
+{
+	background : #FAEBD7;
+	color : 	#00FFFF;
+	font-family : "Century Gothic", Georgia, 'Times New Roman', Times, serif;
+  font-size : 60px;
+  word-spacing : 15px;
+  text-shadow:1px 1px 0px #ffeeee, 2px 2px 0px #000000;
+	
+}
+h2
+{
+	font-variant:small-caps;
+	word-spacing : 15px;
+}
+p {
+	text-align : justify;
+	font-family : "Trebuchet MS", Arial, Helvetica, sans-serif
+}
+a:link{
+	color: red;
+}
+/* megtekintett */
+a:visited {
+  color: pink;
+}
+/* egér fölötte */
+a:hover{
+	color: green;
+	text-decoration: none;
+	font-size: 20px;
+}
+/* kattintás pillnatában */
+a:active {
+  color: black;
+}
